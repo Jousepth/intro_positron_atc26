@@ -2,7 +2,7 @@
 # CONFIGURACIÓN Y ESTILOS ------
 # ==============================================================================
 
-# Cargar librerías necesarias
+##### Cargar librerías necesarias
 library(rio)
 library(dplyr)
 library(tidyr)
